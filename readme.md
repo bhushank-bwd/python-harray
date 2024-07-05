@@ -32,3 +32,11 @@
 ## Comment, escape sequence character, print
 
 ## Variable
+
+## Arithmetic
+
+## Casting
+
+## User Input
+
+## String and operations
