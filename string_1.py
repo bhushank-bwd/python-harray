@@ -20,3 +20,6 @@ startWithInclude = -6  # nameLen-startWithInclude 1
 endWithExclude = -2  # nameLen-endWithExclude = 5
 
 print(name[startWithInclude:endWithExclude])  # hush
+
+
+# strings are immutable
